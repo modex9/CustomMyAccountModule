@@ -1,10 +1,10 @@
 <?php
 /**
-// * Created by PhpStorm.
-// * User: modieza
-// * Date: 1/11/2020
-// * Time: 12:40 PM
-// */
+ * Created by PhpStorm.
+ * User: modieza
+ * Date: 1/11/2020
+ * Time: 12:40 PM
+ */
 //
 if (!defined('_PS_VERSION_'))
     exit;
